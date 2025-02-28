@@ -1,2 +1,1 @@
-# IvanBlazeski/JS
- Starting With Java Script 
+# IvanBlazeski/VP Domasna
